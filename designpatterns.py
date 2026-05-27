@@ -5,7 +5,7 @@ from PIL import Image
 #from openai import OpenAI
 import prompts
 
-OPENAICLIENT = OpenAI()
+#OPENAICLIENT = OpenAI()
     
 def Spaces():
     st.markdown(""" <style> .block-container {padding-top: 2rem;} h1 {margin-top: 1rem; } </style> """, unsafe_allow_html=True)
